@@ -18,6 +18,6 @@ namespace Examen
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
-        //prueba de commit
+        //prueba de commit numero 2
     }
 }
